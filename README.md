@@ -4,6 +4,14 @@ The following are a series of very personal, very private, very loving collectio
 
 I have always wanted to write, and once I did, this was all I ended up having to say.
 
+## The Ones Worth Reading
+[Government](arbitrary-folder/government.md)
+
+[Hijos](arbitrary-folder/hijos.md)
+
+[I Forgot](arbitrary-folder/i-forgot.md)
+
+## The Lot
 [Angry](arbitrary-folder/angry.md)
 
 [Baas](arbitrary-folder/baas.md)
