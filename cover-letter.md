@@ -1,0 +1,19 @@
+# Dear friends at X, or, dear Alice,
+
+Is your name Alice? I tried to figure out who I was supposed to be addressing and someone told me it was Alice but I can imagine nothing more mortifying than getting your name wrong because your name is very important to you, as it should be. In any case you should know if you are Alice, or you aren't Alice, you are interesting and capable and going through struggles no one else can understand and are _special_ in a way that’s hard for me to even communicate through letters on a screen. I just hope you know this because in the grand scheme of things this weird letter with requests for exchange of money and time, autonomy and power, is really rather meaningless in comparison to what I want you to know, which is for you to understand that _special_ bit and smile at least once. Me getting this position in comparison feels downright trivial. Really. Honestly. In fact I'm certain I will survive, and beyond that if it turns out that this is for whatever reason not mutually joy-inducing we can find a way to be friends (or at least acquaintances who smile when we walk past each other) all the same.
+
+Ah. We’ve come to this bit. I will try my best.
+
+Once, I made a computer talk to a phone. This sounds like a small feat perhaps but I like to believe that it was actually quite large, and that the conversations the computer and the phone had whenever they connected were contemplations on whether man would ever make a computer that was like the _human_ brain, and what that would mean for them, and if it rendered them insignificant, and if they would still be loved. I like to imagine they found kinship with each other and found solace in having the same fears, and hopes, and dreams, and took refuge in the knowledge that out there there was at least one other machine that wouldn't judge them for being scared. I made this with socket.io.
+
+Once, in a feat of daring, I married a boy when I wasn't supposed to. This allowed him to study maths, so he did. In the process of studying maths he slowly came to understand his own brilliance when he hadn't before, and gained confidence in a way he never thought he could, and at the end of it all he thought, "I will make a cake for this girl who married me so I could study maths, because I really, really like her." And he will one day, I have no doubt. When he does, I'm sure he'll analyze his architecture very carefully, weighing the pros and cons of the frameworks and code he employs and then decide that he actually wants it on the web where everyone can see it and he’ll ask me what to do and I’ll say that basically means you have to use JavaScript and so he’ll just trust me on this one and use Node. (Actually, only parts of this are true. I imagine you will have fun wondering what is and what isn't; that said, I do sincerely hope that in the end of it all I get cake.)
+
+To be honest this is somewhat... oh goodness. I don't know! Scary? Strange? and that is mostly because I know that while I blather on, you are living, as you should be, and I hope that you are doing well, and that you remember what I said about you being special because it’s true. I know it’s hard to remember sometimes; or perhaps you find yourself not thinking it as often as you should. This is certainly true of myself, at least. In actuality I probably should not assume. In fact, I hope you have the confidence I lack. For you see in the end there is little I care more about than making the people I write letters to happy, including you, whoever you are, wherever you are, because these are the tiny bits of humanity where I want you to tell me about you and what it means to be you and what is lovely about being you and what is hard about being you and I will quietly, happily, listen.
+
+Hoping ever urgently for your reply,
+
+Yours truly,
+
+Helen
+
+_PostScript:_ please enclose current address for cake party such that you may be invited.
