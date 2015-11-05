@@ -7,6 +7,7 @@ I think that we start to grow sad as we watch beauty happen. Life becomes calm; 
 I want to have kids with you, eventually, Brian. I'm not sure if that's madness or not. I guess because it delays sadness, but I'll know it’s still right there waiting to rear its head and make us so, so sad.
 
 With love always,
+
 Helen
 
 _PostScript:_ Of course, nothing seems to compare to the incomparable sadness of being without you.
