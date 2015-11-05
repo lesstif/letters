@@ -13,6 +13,8 @@ I have always wanted to write, and once I did, this was all I ended up having to
 
 [Pianos](arbitrary-folder/pianos.md)
 
+[San Francisco](arbitrary-folder/san-francisco.md)
+
 ## The Lot
 [Angry](arbitrary-folder/angry.md)
 
