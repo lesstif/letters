@@ -5,4 +5,5 @@ Today I have spent most of my day moving. Either bouncing my leg, or shaking, or
 Human relationships are strange. No matter how amazing a person that you meet is, there is always a very real probability they will just fall off the map to you; keeping them in your thoughts and tweets and emails is hard, and unwieldy, and impractical. How do you suppose the president does it? I don’t even want to imagine. Perhaps he has an assistant for maintaining relationships?
 
 With love,
+
 Helen
