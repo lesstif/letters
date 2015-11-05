@@ -9,4 +9,5 @@ I sat in the car for 10 minutes, stalling it time and time again, until in defea
 This was one of the last normal outings we ever had. She lies on her deathbed now. She will never be well again.
 
 Much love,
+
 Helen
