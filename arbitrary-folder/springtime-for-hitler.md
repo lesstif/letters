@@ -7,7 +7,9 @@ In any case I still, even now and almost a decade later, burst into song when al
 Odd, the things you remember the most.
 
 Love,
+
 As always,
+
 Helen
 
 _PostScript:_ I think I’m going to make Banh Mí for dinner.
