@@ -11,6 +11,8 @@ I have always wanted to write, and once I did, this was all I ended up having to
 
 [Letras](arbitrary-folder/letras.md)
 
+[Pianos](arbitrary-folder/pianos.md)
+
 ## The Lot
 [Angry](arbitrary-folder/angry.md)
 
