@@ -5,4 +5,5 @@ Today while driving I had a memory of something that hadn’t happened yet. I wa
 Then I saw you had texted me about the dog shitting on the rug because I had fed her the dog biscuits that had gone bad and felt stupid. You tried to hang up and I stopped you, told you I loved you, and you said it back but only because I had stopped you to say it first. I felt pretty dumb.
 
 With love,
+
 Helen
