@@ -1,0 +1,1 @@
+"If she were gone, I would be nothing."
