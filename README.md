@@ -4,56 +4,56 @@ The following are a series of very personal, very private, very loving collectio
 
 I have always wanted to write, and once I did, this was all I ended up having to say.
 
-[Angry](angry.md)
+[Angry](arbitrary-folder/angry.md)
 
-[Baas](baas.md)
+[Baas](arbitrary-folder/baas.md)
 
-[Children](children.md)
+[Children](arbitrary-folder/children.md)
 
-[Cities](cities.md)
+[Cities](arbitrary-folder/cities.md)
 
-[Cover Letter](cover-letter.md)
+[Cover Letter](arbitrary-folder/cover-letter.md)
 
-[Disappointment](disappointment.md)
+[Disappointment](arbitrary-folder/disappointment.md)
 
-[Dog Poop](dog-poop.md)
+[Dog Poop](arbitrary-folder/dog-poop.md)
 
-[Dying](dying.md)
+[Dying](arbitrary-folder/dying.md)
 
-[Government](government.md)
+[Government](arbitrary-folder/government.md)
 
-[Hijos](hijos.md)
+[Hijos](arbitrary-folder/hijos.md)
 
-[I Forgot](i-forgot.md)
+[I Forgot](arbitrary-folder/i-forgot.md)
 
-[Letras](letras.md)
+[Letras](arbitrary-folder/letras.md)
 
-[Machine](machine.md)
+[Machine](arbitrary-folder/machine.md)
 
-[Mood Swings](mood-swings.md)
+[Mood Swings](arbitrary-folder/mood-swings.md)
 
-[Nothing](nothing.md)
+[Nothing](arbitrary-folder/nothing.md)
 
-[Outing](outing.md)
+[Outing](arbitrary-folder/outing.md)
 
-[People Are Boring](people-are-boring.md)
+[People Are Boring](arbitrary-folder/people-are-boring.md)
 
-[Pianos](pianos.md)
+[Pianos](arbitrary-folder/pianos.md)
 
-[Pinned Tweet](pinned-tweet.md)
+[Pinned Tweet](arbitrary-folder/pinned-tweet.md)
 
-[Raining](raining.md)
+[Raining](arbitrary-folder/raining.md)
 
-[Remix](remix.md)
+[Remix](arbitrary-folder/remix.md)
 
-[San Francisco](san-francisco.md)
+[San Francisco](arbitrary-folder/san-francisco.md)
 
-[Scratching](scratching.md)
+[Scratching](arbitrary-folder/scratching.md)
 
-[Special Books](special-books.md)
+[Special Books](arbitrary-folder/special-books.md)
 
-[Springtime for Hitler](springtime-for-hitler.md)
+[Springtime for Hitler](arbitrary-folder/springtime-for-hitler.md)
 
-[Suicide](suicide.md)
+[Suicide](arbitrary-folder/suicide.md)
 
-[Uncertainty](uncertainty.md)
+[Uncertainty](arbitrary-folder/uncertainty.md)
